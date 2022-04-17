@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing, as of now
 - 💬 Ask me about anything, I might have an answer
 - 📫 How to reach me: instagram.com/valovski1
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy reading Dostoevsky's works
 -->
