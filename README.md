@@ -5,11 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on web design and java projects
-- 🌱 I’m currently learning java, python, c++, front and backend web development, c++
-- 👯 I’m looking to collaborate on whatever I find interesting
-- 🤔 I’m looking for help with nothing, as of now
-- 💬 Ask me about anything, I might have an answer
-- 📫 How to reach me: instagram.com/valovski1
-- ⚡ Fun fact: I enjoy reading classic Russian literature
+
 -->
